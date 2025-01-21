@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\DllInjector.dir\\PerfectInjector.cpp.obj",
+            "outputs": [
+                "C:\\Users\\Neil Huang\\CLionProjects\\DllInjector\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\DllInjector.dir\\PerfectInjector.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
